@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.pumas{
+    height: 100px;
+    margin-right: 3%;
+    margin-left: 3%;
+    color: black;
+}
+
+.pum{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: start;
+    padding: 0;
+    margin: 0;
+    font-size: 41px;
+    background-color: black;
+    color: white;
+}
+
+.pum .pums li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+.awal{
+    margin-left: 38%;
+    font-size: 40px;
+}
+
+.pertengahan{
+    margin-left: 45%;
+    font-size: 30px;
+}
+
+.akhir{
+    margin-left: 30%;
+    font-size: 39px;
+    text-decoration: underline;
+}
+
+span{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.fotopm{
+    height: fit-content;
+    width: 100%;
+}
+
+.shp{
+    display: flex;
+    margin-left: 38%;
+    margin-top: 2%;
+}
+
+.pmshope{
+    margin-right: 1%;
+    color: white;
+    background-color: black;
+    padding: 1%;
+    margin-bottom: 3%;
+    font-size: 35px;
+}
+
+.pmpromo{
+    color: white;
+    background-color: black;
+    padding: 1%;
+    margin-bottom: 3%;
+    font-size: 35px;
+}
+
+.kikir{
+    background-color: burlywood;
+    padding: 17px;
+}
+
+.ongkir{
+    margin-left: 30%;
+    font-size: 30px;
+}
+
+form{
+    width: 600px;
+    width: 55px;
+    display: flex;
+}
+
+form input{
+    flex: 1;
+    border: none;
+    outline: none;
+    font-size: 40px;
+    color: white;
+    background-color: black;
+    border-style: ridge;
+}
+
+form .fa-search{
+    align-self: center;
+    padding: 10px 20px;
+    color: #777;
+    margin-left: 300px;
+}
+
+.brs2{
+    margin-left: 3%;
+}
+
+.epr{
+    font-size: 45px;
+}
+
+.sneaker{
+    margin-top: 35px;
+    display: flex;
+}
+
+.unx{
+    margin-right: 10px;
+    height: 720px;
+}
+
+.velophasis{
+    margin-right: 10px;
+    height: 720px;
+}
+
+.rider{
+    margin-right: 10px;
+    height: 720px;
+}
+
+.neo{
+    margin-right: 10px;
+    height: 720px;
+}
